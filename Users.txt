@@ -1,0 +1,4 @@
+Name: admin, Password: mZa8S#40, BorrowedBook: , IsAdmin True
+Name: mohamed, Password: fG4@q, BorrowedBook: , IsAdmin True
+Name: Alaa, Password: y#03y, BorrowedBook: 1, 3, IsAdmin False
+Name: Aya, Password: 3#0y, BorrowedBook: 2, IsAdmin False

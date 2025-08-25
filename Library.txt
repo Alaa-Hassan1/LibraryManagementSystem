@@ -1,0 +1,4 @@
+ID : 1, Title : Harry Potter, Author : J. K. Rowling, IsBorrowed : True
+ID : 2, Title : Animal Farm, Author : George Orwell, IsBorrowed : True
+ID : 3, Title : Beloved, Author : Toni Morrison, IsBorrowed : True
+ID : 4, Title : The Lord of Rings, Author : J. R. R. Tolkien, IsBorrowed : False
